@@ -19,3 +19,5 @@ import java.util.Scanner;
         
         } 
   }
+
+  /* Pontos a melhorar, usar Double no lugar de INt, por causa dos centavos */
