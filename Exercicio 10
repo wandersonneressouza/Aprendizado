@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+
+public class Atv10{
+    public static void main(String[] args) {
+
+    double numero;
+    Scanner entrada = new Scanner(System.in);
+
+
+    System.out.print("DIGITE UM NUMERO COM PONTO E VIRGULA: ");
+    numero = entrada.nextDouble();
+    System.out.printf( "o numero reduzido é: %.2f", numero);
+        
+
+    }
+
+    
+}
