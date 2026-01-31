@@ -1,0 +1,16 @@
+// Escreva um método void imprimirLinha() que imprima 20 hifens. Chame-o.
+
+public class Atv11 {
+
+    public static void imprimirLinha(){
+        System.out.println("--------------------");
+
+    }
+
+    public static void main(String[] args) {
+         
+        imprimirLinha();
+       
+    }
+    
+}
